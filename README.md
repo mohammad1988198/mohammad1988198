@@ -5,6 +5,6 @@
   <body>
     <h1>our page</h1>
 <p>thes is our first text</p>
-<ahref"http://www.google.com">google-"_blank"></a>
+<ahref"http://www.google.com"target-"_blank">google</a>
   </body>
 </html>
