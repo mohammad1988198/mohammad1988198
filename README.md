@@ -7,5 +7,6 @@
  <p>thes is our first text</p>
  <a href="http://www.google.com"target="_blank">google</a>
  <img src="http://blacehold.it/100/100">
+  <input type="text"value="new">
 </body>
 </html>
